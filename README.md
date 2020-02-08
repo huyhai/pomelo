@@ -10,7 +10,7 @@ yarn install
 
 ```
 yarn installPod && yarn ios              // Running iOS
-yarn andr           // Running Android
+yarn android           // Running Android
 ```
 
 ### Testing
