@@ -9,14 +9,14 @@ yarn install
 ### Running
 
 ```
-yarn installPod && yarn run ios              // Running iOS
-yarn run andr           // Running Android
+yarn installPod && yarn ios              // Running iOS
+yarn andr           // Running Android
 ```
 
 ### Testing
 
 ```
-yarn run test
+yarn test
 ```
 
 ### Documentation folder structure
